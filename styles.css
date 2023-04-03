@@ -1,6 +1,7 @@
 /*  your css code here. If applicable */
 .first{
-	color:#2a7ae2;
+	/*color:#2a7ae2;*/
+	color: #2a7ae2;
 }
 .sec{
 	color:#f44336;
@@ -8,7 +9,7 @@
 	/*padding:20px;*/
 }
 .third{
-	color:;
+	color: #4caf50;
 	
 }
 .fourth{
